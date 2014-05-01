@@ -1,5 +1,5 @@
-include <iostream>
+#include <iostream.h>
 
 main() {
-	cout <<"hello world";
+	cout<<"hello";
 }
